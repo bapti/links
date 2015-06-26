@@ -9,7 +9,7 @@
 
 ### NDC 2015
 - [ ] [Implementing the logic for a board game in Elixir](https://vimeo.com/131757761) 
-- [ ] [Business Logic, a different perspective - Udi Dahan)(https://vimeo.com/131757759)
+- [ ] [Business Logic, a different perspective - Udi Dahan](https://vimeo.com/131757759)
 - [ ] [Metaprogramming Elixir - Chris Mccord](https://vimeo.com/131643017)
 - [ ] [Standing on a Beach, Staring at the C - Kevlin Henney](https://vimeo.com/131640723)
 - [ ] [Building Isomorphic Applications in JavaScript](https://vimeo.com/131640205)
