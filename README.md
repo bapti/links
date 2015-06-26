@@ -3,10 +3,9 @@
 # Videos to watch
 
 ### Fluent 2015
-- [ ] (Rise of the compilers Brendan Eich)[https://www.youtube.com/watch?v=PlmsweSNhTw]
-- [ ]
-- [ ]
-
+- [ ] [Rise of the compilers Brendan Eich](https://www.youtube.com/watch?v=PlmsweSNhTw)
+- [ ] [How Users Perceive the Speed of The Web - Paul Irish](https://www.youtube.com/watch?v=2ksXo2_Lfl0)
+- [ ] [Making Badass Developers - Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 
 ### NDC 2015
 - [ ] Implementing the logic for a board game in Elixir - https://vimeo.com/131757761
