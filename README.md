@@ -1,6 +1,14 @@
 # links
 
-# videos to watch
+# Videos to watch
+
+### Fluent 2015
+- [ ] (Rise of the compilers Brendan Eich)[https://www.youtube.com/watch?v=PlmsweSNhTw]
+- [ ]
+- [ ]
+
+
+### NDC 2015
 - [ ] Implementing the logic for a board game in Elixir - https://vimeo.com/131757761
 - [ ] Business Logic, a different perspective - Udi Dahan - https://vimeo.com/131757759
 - [ ] Metaprogramming Elixir - Chris Mccord https://vimeo.com/131643017
