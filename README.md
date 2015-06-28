@@ -26,6 +26,9 @@
 - [ ] [Enterprise Tic-Tac-Toe -- A functional approach - Scott Wlaschin](https://vimeo.com/131196782)
 - [ ] [Keynote: Bruce Schneier](https://vimeo.com/131115865)
 
+#### Elm
+- [ ] [Adventure with elm](http://theburningmonk.com/2015/06/my-adventure-with-elm-ncrafts/)
+
 #### Node libraries
 - Feature flipping - Fflip - https://www.npmjs.com/package/fflip
 - Backdoor - Vantage - https://github.com/dthree/vantage
