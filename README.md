@@ -29,6 +29,9 @@
 #### Elm
 - [ ] [Adventure with elm](http://theburningmonk.com/2015/06/my-adventure-with-elm-ncrafts/)
 
+#### Js
+- [ ] [Small footprint APIs](https://www.youtube.com/watch?v=4anAwXYqLG8)
+
 #### Node libraries
 - Feature flipping - Fflip - https://www.npmjs.com/package/fflip
 - Backdoor - Vantage - https://github.com/dthree/vantage
