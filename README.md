@@ -14,7 +14,7 @@
 - [ ] [Standing on a Beach, Staring at the C - Kevlin Henney](https://vimeo.com/131640723)
 - [ ] [Building Isomorphic Applications in JavaScript](https://vimeo.com/131640205)
 - [ ] [Running Docker and Containers in Development and Production - Ben Hall](https://vimeo.com/131639823)
-- [ ] [Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
+- [x] [Web Development in 2020 - Steve Sanderson](https://vimeo.com/131637102)
 - [ ] [Authentication and authorization in modern JavaScript web applications – how hard can it be? - Brock Allen](https://vimeo.com/131636653)
 - [ ] [Continuous Delivery - the missing parts - Paul Stack](https://vimeo.com/131636649)
 - [ ] [Securing Web APIs – Patterns & Anti-Patterns - Dominick Baier](https://vimeo.com/131635255)
