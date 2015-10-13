@@ -32,6 +32,9 @@
 #### Js
 - [ ] [Small footprint APIs](https://www.youtube.com/watch?v=4anAwXYqLG8)
 
+## Node / JS
+- [javascripting](https://www.javascripting.com/)
+
 #### Node libraries
 - Feature flipping - Fflip - https://www.npmjs.com/package/fflip
 - Backdoor - Vantage - https://github.com/dthree/vantage
@@ -42,6 +45,20 @@ Redux - https://github.com/gaearon/redux
 #### Routers
 https://www.npmjs.com/package/abstract-state-router
 
+#### Automation
+- [Use NPM as a scripts facade](https://bocoup.com/weblog/a-facade-for-tooling-with-npm-scripts)
+- [Use NPM as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+- [How npm handles the "scripts" field](https://docs.npmjs.com/misc/scripts)
+- [Node monitor](https://www.npmjs.com/package/nodemon)
+
 #### Security
 - [Troys list of security links](http://www.troyhunt.com/2015/09/troys-ultimate-list-of-security-links.html)
+ 
+#### Performance
+- [Speed curve](https://speedcurve.com/)
 
+#### Monitoring
+- [Grafana](http://grafana.org/features/)
+
+#### Design
+- [Facebook Design resources](http://facebook.github.io/design/)
