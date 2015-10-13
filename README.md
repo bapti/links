@@ -42,4 +42,6 @@ Redux - https://github.com/gaearon/redux
 #### Routers
 https://www.npmjs.com/package/abstract-state-router
 
+#### Security
+- [Troys list of security links](http://www.troyhunt.com/2015/09/troys-ultimate-list-of-security-links.html)
 
