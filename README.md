@@ -34,6 +34,9 @@
 
 ## Node / JS
 - [javascripting](https://www.javascripting.com/)
+- 
+#### Security
+- https://blog.risingstack.com/node-js-security-checklist/
 
 #### Node libraries
 - Feature flipping - Fflip - https://www.npmjs.com/package/fflip
