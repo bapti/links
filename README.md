@@ -3,6 +3,7 @@
 ### Node / JS
 
 - [javascripting](https://www.javascripting.com/)
+- [Awesome NPM](https://github.com/sindresorhus/awesome-npm)
 
 ##### Security
 - https://blog.risingstack.com/node-js-security-checklist/
