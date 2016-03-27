@@ -11,7 +11,7 @@
 
 #### Deep work
 
-#### Mindset - How you can fulfil your potential
+#### Mindset: How you can fulfil your potential
 
 Dr Carol Dweck asserts that there are two mindsets - fixed and growth.  Essentially having a fixed mindset can limit our potential to be everything that we want to be.  Below is a very high level bullet point summary of what I got from the book to remind me in the future if I want to come back and remind myself of the points that were pertinent to me.
 
