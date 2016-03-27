@@ -34,8 +34,8 @@
 - You can always change basic things about what kind of person you are
 - Always be open to criticism and change
 
- **Questions to ask every day to maintain a growth mindset**
- - What did I learn today
- - What mistake did I make that taught me something
- - What did I try my hardest at today
+**Questions to ask every day to maintain a growth mindset**
+- What did I learn today
+- What mistake did I make that taught me something
+- What did I try my hardest at today
  
