@@ -55,6 +55,8 @@ This is practice of identifying a difficult problem that you're facing then goin
 
 Cal says that doing mental exercises like memorising a deck of cards will help train your mind to concentrate without getting distracted.
 
+Another exercise would be to try to complete a technical problem within a set time period. This forces a focused mind in order to deliver within the time period.  The primes problem is a good example of this.  Trying to deliver in 2 hours, then decrease the time with each practice.
+
 **Schedule the day**
 
 At the beginning of every day create a paper schedule dictating what you want to work on at what time in any particular day. This could be blocks for email, code, 1-2-1s, meetings, reading etc.  This should help with the batching of work into shallow and deep. It also visualises what you're spending your time and might give you clues to maximising your time.
