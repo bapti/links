@@ -1,0 +1,4 @@
+- What mistake did you make this week and what did you learn from it.
+- What did you work hard on this week
+- Good
+- Bad
