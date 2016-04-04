@@ -5,7 +5,7 @@
 - [lean enterprise](#lean-enterprise)
 - [deep work](#deep-work)
 - [mindset](#mindset-how-you-can-fulfil-your-potential)
-- [4 disciplines of execution](#4-disciplines-of-executioin)
+- [4 disciplines of execution](#4-disciplines-of-execution)
 - [A vision so noble](#a-vision-so-noble)
 
 
