@@ -5,6 +5,8 @@
 - [lean enterprise](#lean-enterprise)
 - [deep work](#deep-work)
 - [mindset](#mindset-how-you-can-fulfil-your-potential)
+- [4 disciplines of execution](#4-disciplines-of-executioin)
+- [A vision so noble](#a-vision-so-noble)
 
 
 #### Lean enterprise
@@ -105,3 +107,27 @@ Leads to a desire to learn and therefore a tendancy to
 - What mistake did I make that taught me something
 - What did I try my hardest at today
  
+#### 4 disciplines of execution
+
+Good book about a framework for goal setting and alignment within business.  It consists of 4 disciplines.
+
+1. Wildly important goal
+2. Lead measures
+3. Scoreboards
+4. Accountability
+
+Firstly you set a wildly important goal, you can only have 1-2 of these on the go at one time. Usually the WIG requires a change in behaviour so to have too many dilutes you ability to make a meaningful change.  Once you have defined you WIG you further define a lag measure which clearly shows you when you have completed your goal.  Change X to Y by when.  
+
+After you've defined your WIG and lag measure you define your lead measures.  These are activities that you can directly affect on a daily basis which are leading indicators for the lag measure.  If your lag measure was to lose weight your lead measure would be to limit your calories each day to a specific number, or to make sure you'd walked 5 miles each day.  You cannot directly affect losing weight - as in today I will lose 1kg.  You can definitely walk 5 miles and not eat more than 2500 calories.  
+
+Once you've definied a lead measure or two now it's time to make a scoreboard to track progress.  The scoreboard should have the WIG, the lag measure with desired and actual.  Finally it should track your lead measures which is what you can do on a daily basis which you believe will move your lag measure.
+
+Finally and most importantly you need accountability.  You need a weekly meeting with a team or someone else to meet for 15 minutes and review your scoreboard.  During this session you will make unbreakable commitments to deliver on lead measures for the following week.  You will be held accountable for your commitments by either you accountability partner and or team.  
+
+Following these disciplines should allow you to keep on top of what is your wildly important goal and achieve it in a timely manner.
+
+#### A vision so noble
+
+This is an interesting little book on the history of John Boyd and his thinking on tactics.  He was a great fighter pilot who formulated the OODA loop which is a decision making framework for adapting to change.  It can be applied to almost anything which is what's interesting in terms of software development.
+
+See (wikipedia)[https://en.wikipedia.org/wiki/OODA_loop] for a good overview which I'm not going to attempt just now
