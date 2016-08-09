@@ -1,0 +1,16 @@
+- https://www.meetup.com/london-software-craftsmanship/
+- https://www.meetup.com/Front-Endgineers-London/
+- https://www.meetup.com/London-Javascript/
+- https://www.meetup.com/London-React-User-Group/
+- https://www.meetup.com/Elixir-London/
+- https://www.meetup.com/keystonejs-london/
+- https://www.meetup.com/AdventuresWithAgile/
+- https://www.meetup.com/Agile101/
+- https://www.meetup.com/London-Limited-WIP-Society/
+- https://www.meetup.com/KanbanCoachingExchangeKCE/
+- https://www.meetup.com/London-Data-Visualization/
+- https://www.meetup.com/graphdb-london/
+- https://www.meetup.com/Big-Data-Next-Gen-Hadoop-Ingest-Transform-London/
+- https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/
+- https://www.meetup.com/London-React-Native-Meetup/
+- https://www.meetup.com/London-Algorithms/
